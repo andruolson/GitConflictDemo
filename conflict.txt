@@ -1,2 +1,3 @@
 Hello class!
 Let's learn about Git Conflict Resolution.
+Line three from the main branch.
